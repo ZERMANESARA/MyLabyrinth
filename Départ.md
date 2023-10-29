@@ -1,5 +1,6 @@
-## Bienvenue vous etes à la ville de départ (Clermont)
+# Bienvenue à la ville de départ Clermont-Ferrand
+![Clermont](https://github.com/ZERMANESARA/MyLabyrinth/blob/FB_AddImageBranch/Images/Clermont.png)
 ***
-# Cette ville peut vous mener vers une [Par escalle1](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/ParEscalle1.md)   
-# Cette ville peut vous mener aussi  vers [Avignon](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/Avignon.md) 
+## Ce chemin vous emmène vers la destination [Par escalle1](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/ParEscalle1.md)
+## Ce chemin vous emmène vers [Avignon](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/Avignon.md)
 

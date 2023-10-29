@@ -1,5 +1,7 @@
-##  Vous etes à Par escalle1  
+#  Vous êtes à Par escalle 1 !
+une ville de transit qui vous permet d'atteindre deux destinations
+![CarteLogo](https://github.com/ZERMANESARA/MyLabyrinth/blob/FB_AddImageBranch/Images/Transit1.png)
 ***
-# Cette ville peut vous mener vers une [ville traversée par un fleuve](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/Lyon.md)   
-# Cette ville peut vous mener aussi  vers [Par escalle 2](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/ParEscalle2.md) 
-
+##Make your choice !
+### Ce chemin vous emmène vers une [ville traversée par un fleuve](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/Lyon.md)   
+### Ce chemin vous emmène vers [Par escalle 2](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/ParEscalle2.md) 

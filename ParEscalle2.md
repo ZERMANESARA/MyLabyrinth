@@ -1,5 +1,4 @@
-##  Vous etes à Par éscale1  
+##  Vous etes à Par éscalle2  
 ***
-# Cette ville peut vous mener vers une [ville traversée par un fleuve](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/VilleFleuve.md)   
-# Cette ville peut vous mener aussi  vers [Par éscale 2](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/ParEscale2.md) 
+# Cette ville peut vous mener en dehors du pays [vous voulez traverser la frontier?](https://github.com/ZERMANESARA/MyLabyrinth/blob/main/Belgique.md)   
 
